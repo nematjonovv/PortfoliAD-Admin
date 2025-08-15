@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Projects from "./pages/Projects";
 import ContactInfo from "./pages/ContactInfo";
 import ClientRequests from "./pages/ClientRequests";
-import Sidebar from "./components/sidebar";
+import Sidebar from "./components/Sidebar.jsx";
 import AddNewProject from "./pages/AddNewProject";
 
 function App() {
